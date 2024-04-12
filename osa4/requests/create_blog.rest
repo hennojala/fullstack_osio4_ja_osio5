@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFrdSIsImlkIjoiNjViMjdiM2RhNGUwOTg5MzkzMjA2ZGY4IiwiaWF0IjoxNzA2MTk1ODAxLCJleHAiOjE3MDYxOTk0MDF9.s5i-rppWtom2whVRV-fKb1A8R5J_x95YxGvCp-2tLvE
+{
+    "title": "Ankan tarinat5",
+    "author": "Aku",
+    "url": "www.ankkalinna.com",
+    "likes": 199,
+    "userId": "65b14763bf38c3e5f09e07cf"
+}

@@ -1,0 +1,67 @@
+html {
+  background-color: rgb(238, 180, 238);
+}
+
+button {
+  background-color: rgb(229, 155, 229);
+  margin: 15px;
+  padding: 5px;
+}
+button:hover {
+  background-color: rgb(235, 219, 235);
+}
+
+div {
+  background-color: rgb(241, 215, 241);
+  padding: 15px;
+}
+
+.blog-form {
+  background-color: rgb(182, 163, 178) !important;
+  padding: 30px;
+  margin: 10px;
+  max-width: 250px;
+  box-shadow: 2px 2px 12px 2px rgb(158, 126, 158);
+}
+
+.oneBlog {
+  border: 1px solid;
+  margin: 10px;
+  max-width: max-content;
+  min-width: 300px;
+  flex-wrap: wrap;
+  box-shadow: 2px 2px 12px 2px rgb(180, 134, 180);
+}
+
+.confirm {
+  color: green;
+  background: rgb(186, 229, 210);
+  font-size: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  background: rgb(246, 208, 208);
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.moreBlog {
+  padding-left: 0;
+}
+
+.removeBlogbtn {
+  background-color: cornflowerblue;
+  margin-left: 0;
+}
+.removeBlogbtn:hover {
+  background-color: rgb(101, 242, 99);
+}
